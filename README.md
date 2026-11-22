@@ -57,9 +57,9 @@ The bot starts as a **blank canvas**. A fresh server gets no channels, no posts,
 
 ## Download
 
-**[Download Nova Bot Desktop v1.1.0 Betta (bundle zip, 37 MB)](https://github.com/jordanalbiar/nova-bot-desktop/releases/download/v1.1.0/nova-bot-desktop-v1.1.0-betta.zip)**
+**[Download Nova Bot Desktop v1.1.0 Betta (bundle zip, 37 MB)](https://github.com/jordanalbiar/nova-desktop-bot/releases/download/v1.1.0/nova-bot-desktop-v1.1.0-betta.zip)**
 
-First desktop update, nicknamed Betta, after the betta fish. Install it over any earlier desktop bundle. See the [v1.1.0 release notes](https://github.com/jordanalbiar/nova-bot-desktop/releases/tag/v1.1.0) for what's in it.
+First desktop update, nicknamed Betta, after the betta fish. Install it over any earlier desktop bundle. See the [v1.1.0 release notes](https://github.com/jordanalbiar/nova-desktop-bot/releases/tag/v1.1.0) for what's in it.
 
 ## Quick start
 
@@ -129,4 +129,4 @@ Nova Bot is built by Jordan Albiar, find him at paypal.me/jordanalbiar
 
 **Nova Bot Desktop is currently on v1.1.0 Betta**, the first desktop update, themed on the betta fish.
 
-[Download v1.1.0 Betta (bundle zip, 37 MB)](https://github.com/jordanalbiar/nova-bot-desktop/releases/download/v1.1.0/nova-bot-desktop-v1.1.0-betta.zip) · [v1.1.0 release notes](https://github.com/jordanalbiar/nova-bot-desktop/releases/tag/v1.1.0)
+[Download v1.1.0 Betta (bundle zip, 37 MB)](https://github.com/jordanalbiar/nova-desktop-bot/releases/download/v1.1.0/nova-bot-desktop-v1.1.0-betta.zip) · [v1.1.0 release notes](https://github.com/jordanalbiar/nova-desktop-bot/releases/tag/v1.1.0)
