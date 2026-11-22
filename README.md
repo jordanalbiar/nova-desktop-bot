@@ -1,4 +1,4 @@
-![Nova Bot cover](assets/nova-betta-cover.png)
+![Nova Bot cover](assets/nova-cover.png)
 
 # Nova Bot (Desktop)
 
