@@ -61,6 +61,10 @@ The bot starts as a **blank canvas**. A fresh server gets no channels, no posts,
 
 First desktop update, nicknamed Betta, after the betta fish. Install it over any earlier desktop bundle. See the [v1.1.0 release notes](https://github.com/jordanalbiar/nova-desktop-bot/releases/tag/v1.1.0) for what's in it.
 
+Inside the app, v1.1.0 Betta:
+
+![Inside the app, v1.1.0 Betta](assets/download-preview-collage.jpg)
+
 ## Quick start
 
 1. Download the desktop bundle zip and unzip it on your computer (Linux).
